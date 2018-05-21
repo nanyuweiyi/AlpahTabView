@@ -4,7 +4,7 @@
 欢迎大家下载体验本项目，如果使用过程中遇到什么问题，欢迎反馈。
 
 ## 演示
- ![image](./demo1.gif)
+ ![image](./screenshots/demo1.gif)
 
 ## 1.用法
 ```
