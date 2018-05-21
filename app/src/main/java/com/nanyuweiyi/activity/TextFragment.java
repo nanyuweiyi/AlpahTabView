@@ -1,4 +1,4 @@
-package com.lzy.alphaindicatorview;
+package com.nanyuweiyi.activity;
 
 import android.os.Bundle;
 import android.support.v4.app.Fragment;

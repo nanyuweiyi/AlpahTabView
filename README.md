@@ -1,25 +1,14 @@
-# AlphaIndicatorView
+# AlphaTabView
 ### 仿微信底部tab标签，滑动的时候颜色渐变，使用极其简单，只需要两行代码。
 
 欢迎大家下载体验本项目，如果使用过程中遇到什么问题，欢迎反馈。
 
-### 联系方式
- * 邮箱地址： liaojeason@126.com
- * QQ群： 489873144 （建议使用QQ群，邮箱使用较少，可能看的不及时）
- * 本群刚建立，旨在为使用我的github项目的人提供方便，如果遇到问题欢迎在群里提问。个人能力也有限，希望一起学习一起进步。
-
-
 ## 演示
- ![image](https://github.com/jeasonlzy0216/AlphaIndicatorView/blob/master/screenshots/demo1.gif)![image](https://github.com/jeasonlzy0216/AlphaIndicatorView/blob/master/screenshots/demo2.png)![image](https://github.com/jeasonlzy0216/AlphaIndicatorView/blob/master/screenshots/demo3.png)
+ ![image](./demo1.gif)
 
 ## 1.用法
-该项目和我github上其他的view相关的项目已经一起打包上传到jCenter仓库中（源码地址 [https://github.com/jeasonlzy0216/ViewCore](https://github.com/jeasonlzy0216/ViewCore) ），使用的时候可以直接使用compile依赖，用法如下
-```java
-	compile 'com.lzy.widget:view-core:0.1.5'
 ```
-或者使用
-```java
-    compile project(':alphaview')
+	compile 'com.github.nanyuweiyi:AlpahTabView:1.0.0'
 ```
 
 ## 注意事项

@@ -1,4 +1,4 @@
-package com.lzy.widget;
+package com.nanyuweiyi.widget;
 
 import android.content.Context;
 import android.content.res.TypedArray;
